@@ -31,7 +31,6 @@ https://github.com/fab1opinto/challenger-frontendmentor/assets/52512005/b8db5349
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [Javascript](https://www.javascript.com/) - JS.
 
