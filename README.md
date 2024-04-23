@@ -21,7 +21,7 @@ https://github.com/fab1opinto/challenger-frontendmentor/assets/52512005/b8db5349
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/i-used-semantic-html-responsive-design-with-css-and-javascript-WPbMJD0rrA)
+- Solution URL: https://www.frontendmentor.io/solutions/i-used-semantic-html-responsive-design-with-css-and-javascript-WPbMJD0rrA
 - Live Site URL: https://newshomepage-netlify.netlify.app/
 
 ## My process
